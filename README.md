@@ -9,6 +9,7 @@
 
 #### [Mastering Chaos, A Netflix Gudie to Microservices link](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 #### [The Bootiful Microservices by Josh Long, DEVOXX France 2016 link](https://www.youtube.com/watch?v=rqQOSG0DWPY&t=8s)
+#### [SpringOne Platform 2017 Videos](http://springoneplatform.io/)
 
 
 
